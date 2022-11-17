@@ -17,11 +17,12 @@ If the order does not matter, we calculate the probability using the combination
 *where **n** is the *total number of outcomes* and **r** is the *total number of desired outcomes*
 ## Usage
 To use this program, clone the repository:
-``
+```https://github.com/Sheila-nk/DeckOfCards_Probability_Calculator.git```
+
 Run it on your terminal:
-`python probability_calculator.py`
+```python probability_calculator.py```
 ## Testing
 To test the program on your terminal, use the command:
-`pytest -v`
+```pytest -v```
 
 ### ENJOY :)
